@@ -1,0 +1,9 @@
+# ninja log v6
+25	1791	7600475746916402	CMakeFiles/TiposDeDatos.dir/main.cpp.obj	b73a7def3fa4e51f
+10	1227	7600497876195221	CMakeFiles/conversionExplicita.dir/conversionExplícita.cpp.obj	21aa91cdc1a523ae
+1882	3408	7600475765485838	TiposDeDatos.exe	9d25ff5f9de41fc4
+14	2066	7600495816064802	CMakeFiles/conversionTipos.dir/conversionTipos.cpp.obj	b9b1a216ecad002a
+2078	2867	7600495836703026	conversionTipos.exe	847827a8e0a8d4d1
+11	1407	7600498541652833	CMakeFiles/usoDeConstantes.dir/usoDeConstantes.cpp.obj	ffef6e2f7ce6bf47
+1230	2029	7600497888396532	conversionExplicita.exe	cc2aba2e7751c624
+1411	2122	7600498555650074	usoDeConstantes.exe	469ea9aa909ce497
